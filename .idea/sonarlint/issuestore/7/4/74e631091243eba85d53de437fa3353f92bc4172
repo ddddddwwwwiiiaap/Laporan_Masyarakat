@@ -1,0 +1,4 @@
+
+f	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‡“Ž
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›æÍÇþÿÿÿÿ
+k	java:S116 "VRename this field "isi_laporan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿûêÉ

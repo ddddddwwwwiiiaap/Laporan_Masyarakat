@@ -1,0 +1,11 @@
+
+ˆ
+java:S1319$"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(£€¡½ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßòÁäÿÿÿÿÿ
+m	java:S116"SRename this field "_context" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú§Ğşÿÿÿÿ
+O
+java:S1874"9Remove this use of "PreferenceManager"; it is deprecated.(á©úØ
+Y
+java:S1874"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(á©úØ
+G
+java:S1068",Remove this unused "_context" private field.(Ú§Ğşÿÿÿÿ
